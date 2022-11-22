@@ -1,0 +1,9 @@
+table,
+th,
+td {
+  border: 2px ridge gray;
+}
+
+th {
+  background: lightgrey;
+}
